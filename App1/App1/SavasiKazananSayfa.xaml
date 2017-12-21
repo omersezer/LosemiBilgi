@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.SavasiKazananSayfa">
+    <ContentPage.Content>
+        <ScrollView Padding="5,0,5,0">
+            <StackLayout>
+                <Label FontSize="Large"
+                       FontAttributes="Bold"
+                       TextColor="Black"
+                       Text="Yaprak Dolek Aydan"/>
+                <Label FontSize="Medium"
+                       TextColor="Black"
+                       Text="Ben KML ile 5 sene once yaz tatili basinda tanistim. Bebekli bir ogretmen olarak cok yogun bir kis donemi gecirmistim. Guzel bir tatili hakettigimi dusunurken dogum sonrasi kilolarimdan kurtulmanin hizinin kontrolumden cikmasiyla beraber sasirtici haberi aldim. Artik KML hastasiydim. Tani konulduktan sonraki ilk gunler tabii ki aglayarak ve korkarak gecti. Ancak hastaligim hakkinda bilgi sahibi oldukca, ilac tedavisinin mumkun oldugunu ogrenince hele de bu ilacin 'hap' oldugunu ogrenince oyle rahatladim ki.. Ilac tedavisine basladiktan sonra elbette ki yan etkilerini yasamaya basladim. Hic bitmeyecekmis gibi gelen bir kac aydan sonra; hizla toparlanmaya basladim. Her gecen gun kendimi daha iyi ve guclu hissediyordum ve bu hiza inanamiyordum. Halen yasta bir hasta psikolojisindeyken bedenim sanki bu fikri reddeder gibi hizla iyilesiyordu. Aylarca kurtulmaya calistigim kilolarimi alabilmenin bile beni ne kadar mutlu ettigini bilemezsiniz. En sonunda ben de kabul ettim ki korkularimin hepsi yersiz, daha uzun yillar sevgili ilaclarim ve KML ile uyumla yasayacagiz. "/>
+                <Label FontSize="Large"
+                       FontAttributes="Bold"
+                       TextColor="Black"
+                       Text="Kaan Karaca"/>
+                <Label FontSize="Medium"
+                       TextColor="Black"
+                       Text="Tam 8 sene önce eylül sonunda tanıştım lösemi (KML) ile...hayatımın çok kötü gittiği bir dönemde... Teşhisi koyan KANATSIZ MELEK olan doktorum bana KML olduğumu söylediğinde şaşırmış ve aklımdan geçen beni üzen tek şey dökülmeyeceğini söyledikleri halde yine de saçlarımın döküleceğini düşünmem olmuştu...Ansızın işimden, okulumdan, arkadaşlarımdan ayrı kalmış garip bir psikolojiye kapılmıştım...saçlarımın her tanesi dökülürken sanki onlar beni hayata bağlıyormuş gibi üzülüyordum ama yanımda yatan ve bütün hayatın bittiğini söyleyip ah vah eden hastalara anlam veremeden bakıyordum...anlam veremiyordum çünkü insan beyninin ne kadar güçlü olduğunu insanın inandığı zaman neler yapacağını unutacak kadar hastalıktan korkmuşlar ve çıkmazda olduklarını düşünüyorlardı. KML nin sayesinde iyi ve kötü dostlarımı da öğrenmiş oldum düşünün ki yalnız bir evdesiniz ve bütün elektrikli aletleri açıyorsunuz doğal olarak sigortalar atacaktır ve siz evde yalnızken kapılar kapalı iken kimse içeri giremez ve sigortaları kaldıramaz bizim sigortaları kaldırmamız gerekir yani kendimizi hasta eden de iyileştirecek olan da bizleriz moralimizi her daim iyi tutmalı ve insanın istediği zaman her şeyin üstesinden gelebileceğini unutmamalıyız...Sevgili KML ile aramın nasıl olduğunu merak ediyorsanız  aramız çok iyi ve artık birbirimizi üzmüyoruz biz iyi bir arkadaş olduk ve beraber kavga etmeden yaşamayı öğrendik.  KML korkulacak bir hastalık değil ilaçlarını verdiğiniz sürece uysal ve sakin."/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

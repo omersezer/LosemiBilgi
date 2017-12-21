@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.GirisSayfa">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="losev.jpg"/>
+            
+            <Grid Padding="30,0,30,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Button Grid.Row="0"
+                        x:Name="buttonLosemiNedir"
+                        Text="Lösemi Nedir ?"
+                        BackgroundColor="Blue"
+                        TextColor="White"
+                        Clicked="buttonLosemiNedir_Clicked"/>
+                <Button Grid.Row="1"
+                        x:Name="buttonLosemiBelirtileri"
+                        Text="Lösemi Belirtileri"
+                        BackgroundColor="Blue"
+                        TextColor="White"
+                        Clicked="buttonLosemiBelirtileri_Clicked"/>
+                <Button x:Name="buttonTedavi"
+                        Text="Tedavi Yöntemleri"
+                        BackgroundColor="Blue"
+                        TextColor="White"
+                        Grid.Row="2"
+                        Clicked="buttonTedavi_Clicked"/>
+                <Button x:Name="buttonBeslenme"
+                        Text="Beslenme"
+                        BackgroundColor="Blue"
+                        TextColor="White"
+                        Grid.Row="3"
+                        Clicked="buttonBeslenme_Clicked"/>
+                <Button x:Name="buttonSavasiKazananlar"
+                        Text="SAvaşı Kazananlar"
+                        BackgroundColor="Blue"
+                        TextColor="White"
+                        Grid.Row="4"
+                        Clicked="buttonSavasiKazananlar_Clicked"/>
+                
+                <Button x:Name="buttonDestekOl"
+                        Text="Destek Ol !"
+                        Grid.Row="5"
+                        BackgroundColor="Blue"
+                        TextColor="White"
+                        Clicked="buttonDestekOl_Clicked"/>
+            </Grid>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

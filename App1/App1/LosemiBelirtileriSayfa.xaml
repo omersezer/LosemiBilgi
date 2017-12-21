@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.LosemiBelirtileriSayfa">
+    <ContentPage.Content>
+        <ScrollView Padding="10">
+            <StackLayout>
+            <Label  FontSize="Medium"
+                    TextColor="Black"
+                Text="Löseminin bazı belirti ve bulguları daha yaygın görülen birçok hastalığa benzemektedir. Tüm lösemi tiplerinde anormal hücre çoğalması kemik iliğinde yeni oluşan normal hücrelerin sayısının azalmasına neden olur. Sonuç olarak; kırmızı küre hücre sayısının azalmasıyla anemi, plateletlerin azalması trombositopeni, beyaz kan hücrelerinin azalması da nötropeni olarak isimlendirilir. Akut lösemiler kronik lösemilere göre daha aşikar bulgular verebilir.
+
+AML ve ALL nin belirtileri benzerlik gösterir. Anemiye bağlı halsizlik, çabuk yorulma, hareketle artan nefes darlığı ve solukluk meydana gelir. Trombositopeniye bağlı olarak, ciltte morluk oluşması, toplu iğne başı büyüklüğünde kırmızı yaygın döküntüler, burun ve diş eti kanamaları görülür. Artan blastlar bağışıklık sistemindeki hücrelerin yapımını bozduğu için yüksek ateş, bademcik iltihabı ve zatürree görülebilir. Yine blastlardaki artış, kemik-eklem ağrılarına, göğüs kemiğinde hassasiyete, solukluk,  baş ağrısı, iştahsızlık, bulantı, kusma ve kilo kaybına neden olur. Özellikle ALL'de lenfoblastların lenf bezleri, dalak ve karaciğerde birikmesine bağlı olarak bu organlarda büyüme saptanabilir.
+
+KLL ve KML hiçbir belirti göstermeyebilirler. Bazı hastalar lösemi olduklarını düzenli kontrolleri sırasında yaptırdıkları kan testlerinden sonra öğrenirler. KLL'li hastalar boynunda, koltuk altında veya kasığında büyümüş lenf nodları nedeniyle doktora başvurabilir." />
+            <Label Text="Çocuklarda lösemi hastalığının belirtileri: 
+
+ İştahsızlık,  Kansızlık, Zayıflama, Bacaklarda kemik ağrıları,  Cilt altında kanamaları (kırmızı noktalar veya morarmalar), Burun ve dişeti kanamaları, Ateş"
+                   FontSize="Medium"
+                   TextColor="Black"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

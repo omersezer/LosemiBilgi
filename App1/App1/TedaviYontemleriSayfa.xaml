@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.TedaviYontemleriSayfa">
+    <ContentPage.Content>
+        <ScrollView Padding="10,0,10,0">
+            <StackLayout>
+
+                <Label Text="Yaklaşık 3 yıl süren tedavide 4 safha yer alır:" 
+                   FontSize="Medium"
+                   TextColor="Black"/>
+                <Label Text="1- YÜKLEME TEDAVİSİ (Balyoz Harekatı):"
+                   FontSize="Large"
+                   FontAttributes="Bold"
+                   TextColor="Black"/>
+                <Label FontSize="Medium"
+                   TextColor="Black"
+                   Text="Birbirinden farklı 5-6 çeşit ilaç damardan aynı anda verilir. Amaç kötü huylu hücrelerin 2 ay içerisinde hızla öldürülmesidir. Vücudumuzu işgal etmiş düşman kuvvetlerine karşı dost birliklerin topla, tüfekle, bombayla taarruzudur. Adeta bir Kurtuluş Savaşı başlamıştır."/>
+                <Label Text="2- PEKİŞTİRME TEDAVİSİ (Jet Tesiri):"
+                   FontSize="Large"
+                   TextColor="Black"
+                   FontAttributes="Bold"/>
+                <Label FontSize="Medium"
+                   TextColor="Black"
+                   Text="Paniğe kapılan, dağılan kötü hücreler hemen kendilerini korumak, direnebilmek için zırhlara bürünmekte, gizlenmekte ve çoğalmaya çalışmaktadır. Vücudumuzun silahlı kuvvetleri ile birlikte dost güçler havadan, karadan ve denizden düşmana bombalarla saldırmaktadır. 3-4 ay süren bu tedavide çok yüksek doz birbirinden farklı tesirli ilaçlar damardan verilmektedir.
+
+İşte bu sırda maalesef vücudumuzdaki faydalı hücreler de ölmekte, saçlar dökülmekte, ağızda yaralar çıkmaktadır."/>
+                <Label FontSize="Large"
+                   FontAttributes="Bold"
+                   TextColor="Black"
+                   Text="3- ÖNLEYİCİ TEDAVİ (İstihbarat):"/>
+                <Label FontSize="Medium"
+                   TextColor="Black"
+                   Text="Kemik iliğinde yenilmiş, parçalanmış, dağılmış düşman hücrelerinin beyin ve sinir sistemi ve üreme organlarımıza yerleşerek, sinsi sinsi faaliyete geçmelerini önleyici tedavidir. Bazı durumlarda radyoterapi (ışın tedavisi) uygulanabilir. Bir nevi gizli servis işlevini üstlenirler."/>
+                <Label FontSize="Large"
+                   FontAttributes="Bold"
+                   TextColor="Black"
+                   Text="4- YENİDEN ÖRGÜTLENMEYE İZİN VERMEYEN DEVAMLILIK TEDAVİSİ:"/>
+                <Label
+                FontSize="Medium"
+                TextColor="Black"
+                Text="Amaç artık tamamen yok edilmiş düşman hücrelerinin vücudumuzda herhangi bir şekilde yeniden çoğalmalarını önlemektir. En son blast yok edilinceye kadar tek tek bulunup parçalanması sağlanır. Yaklaşık 2.5-3 yıl kadar devam eder."/>
+            </StackLayout>
+
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

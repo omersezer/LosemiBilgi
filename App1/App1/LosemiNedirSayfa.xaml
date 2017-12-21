@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.LosemiNedirSayfa">
+    <ContentPage.Content>
+        <ScrollView Padding="10">
+            <Label Text="Lösemi kelimesi Yunanca olan ve beyaz anlamına gelen leukos ve kan anlamına gelen haima kelimelerinin birleşiminden elde edilmiş, ve hastalığı adlandırmak için kullanılmıştır. Lösemi bir diğer deyişle kan kanseri, kemik iliğinin anormal hücreler ile dolması ve bu hücrelerin kana ve dokulara yayılması sonucu belirti veren kötü huylu bir hastalıktır."
+                   FontSize="Medium"
+                   TextColor="Black"/>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

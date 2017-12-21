@@ -1,0 +1,88 @@
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\App1.Android.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\App1.Android.pdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\com.companyname.App1.apk
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\com.companyname.App1-Signed.apk
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\App1.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\FormsViewGroup.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Android.Support.Annotations.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\App1.pdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\FormsViewGroup.pdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\App1.Android.csprojResolveAssemblyReference.cache
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\App1.Android.csproj.CoreCompileInputs.cache
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\App1.Android.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\App1.Android.pdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\android\bin\com.companyname.App1.apk
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\res\drawable\icon.png
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\res\drawable-hdpi\icon.png
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\res\drawable-xhdpi\icon.png
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\res\drawable-xxhdpi\icon.png
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\res\layout\tabbar.xml
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\res\layout\toolbar.xml
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\res\values\styles.xml
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\res\drawable\losev.jpg
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\R.cs.flag
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\uploadflags.txt
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\App1.dll.mdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\bin\Release\App1.Android.dll.mdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\android\assets\App1.Android.dll.mdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\android\assets\App1.dll.mdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\App1\App1\App1.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\OmerSezer\documents\visual studio 2017\Projects\App1\App1\App1.Android\bin\Release\App1.Android.dll
+bin\Release\App1.dll.mdb
+bin\Release\Mono.Android.pdb
+bin\Release\mscorlib.pdb
+bin\Release\System.Core.pdb
+bin\Release\System.pdb
+bin\Release\System.Xml.pdb
+bin\Release\System.Xml.Linq.pdb
+bin\Release\System.Net.Http.pdb
+bin\Release\System.Runtime.Serialization.pdb
+bin\Release\System.ServiceModel.Internals.pdb
+bin\Release\Mono.Security.pdb
+bin\Release\System.ComponentModel.Composition.pdb
+obj\Release\linksrc\App1.Android.dll.mdb
+obj\Release\linksrc\App1.dll.mdb
+obj\Release\linksrc\FormsViewGroup.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Release\linksrc\Mono.Android.pdb
+obj\Release\linksrc\mscorlib.pdb
+obj\Release\linksrc\System.Core.pdb
+obj\Release\linksrc\System.pdb
+obj\Release\linksrc\System.Xml.pdb
+obj\Release\linksrc\System.Xml.Linq.pdb
+obj\Release\linksrc\System.Net.Http.pdb
+obj\Release\linksrc\System.Runtime.Serialization.pdb
+obj\Release\linksrc\System.ServiceModel.Internals.pdb
+obj\Release\linksrc\Mono.Security.pdb
+obj\Release\linksrc\System.ComponentModel.Composition.pdb

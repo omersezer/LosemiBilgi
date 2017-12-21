@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Beslenme">
+    <ContentPage.Content>
+        <ScrollView Padding="5,0,5,0">
+            <StackLayout>
+
+                <Label FontSize="Medium"
+                  TextColor="Black"
+                  Text="Doğru ve yeterli beslenmeniz tedavinizin bir parçasıdır ve son derece önemlidir. Besinler, besleyici değerleri yönünden beş grupta toplanabilir. Her öğün her gruptan kendinize en uygun bir ya da birkaç besini seçer ve yediklerinizin miktarını size önerilen şekilde gereksiniminize göre ayarlarsanız yeterli ve dengeli beslenmiş olursunuz."/>
+                <Label FontSize="Medium"
+                   TextColor="Black"
+                   Text="1. Grupta et, tavuk, balık, yumurta ve kurufasulye, nohut, mercimek gibi kurubaklagiller yer alır. Bu gruptaki besinler iyi kalite protein içermektedir. Etlerde az yağlı olanlar tercih edilmeli ve haşlama, ızgara ve fırında pişirme yöntemleri kullanılmalıdır."/>
+                <Label FontSize="Medium"
+                   TextColor="Black"
+                   Text="2. Grupta süt, yoğurt, peynir, çökelek ve benzeri besinler yer alır. Bu gruptaki besinler protein ve kalsiyumdan zengindir. Yağı azaltılmış veya kaymaksız süt, yoğurt, az yağlı peynirler tercih edilmelidir."/>
+                <Label FontSize="Medium"
+                   TextColor="Black"
+                   Text="3. Grupta tahıllar, ekmek, pirinç, bulgur, makarna ve benzerleri yer alır. Temel enerji kaynağıdırlar. Bu gruptaki besinlerde bitkisel protein ve B grubu vitaminler bulunur."/>
+                <Label FontSize="Medium"
+                   TextColor="Black"
+                   Text="4. Grupta sebze ve meyveler yer alır. Bu besinler C vitamininden zengindir. Özellikle yeşil yapraklı sebzeler A ve C vitamini içerir. Sebze ve meyvelerin içerdiği vitamin ve mineraller vücudun savunma sisteminin güçlenmesine yardımcı olmaktadır. Ayrıca sebze ve meyveler içerdikleri posa açısından sindirim sisteminin çalışmasına yardımcı olmaktadır."/>
+            </StackLayout>
+
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
